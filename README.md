@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MadhurimaMitra
 - 👀 I’m interested in Frontend Development and AWS services
 - 🌱 I’m currently learning Full-stack web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: madhurimamitra2016@gmail.com
 
 <!---
